@@ -220,7 +220,7 @@ def main():
     st.markdown("---")
     st.markdown(
         "**Desenvolvido com ❤️ usando Python e Streamlit** | "
-        "💻 [Código Fonte](https://github.com) | "
+        "💻 [Código Fonte](https://github.com/rubensliv/calculadora-python-web) | "
         "📧 [Contato](mailto:contato@exemplo.com)"
     )
 

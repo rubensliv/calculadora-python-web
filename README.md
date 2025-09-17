@@ -2,6 +2,10 @@
 
 Uma calculadora interativa desenvolvida em Python com interface web moderna usando Streamlit.
 
+[![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://python.org)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 ## ✨ Funcionalidades
 
 ### Operações Básicas
